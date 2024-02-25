@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋 I'm Omkar Shinde
 
-<!--
-**itz-omkar-shinde-1432/itz-omkar-shinde-1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate B.Tech student in Computer Science Engineering with a focus on Cyber Security. Currently in my first year at GH Raisoni College of Engineering and Management,Pune.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently exploring the vast field of computer science, with a keen interest in cyber security.
+- 🔭 I enjoy learning new technologies and frameworks to stay updated with the ever-evolving tech landscape.
+- 💡 I'm enthusiastic about contributing to open-source projects and collaborating with like-minded individuals.
+
+## 🎓 Education
+
+- 📚 Currently pursuing B.Tech in Computer Science Engineering (Cyber Security) at GH Raisoni College of Engineering and Management.
+
+## 🔧 Skills
+
+- Programming Languages: C, Python
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/omkar-shinde-3907a927a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: omkarsh8484@gmail.com
+
+
+## 🤝 Let's Collaborate!
+
+I'm open to collaborations and discussions. Feel free to reach out if you share similar interests or have exciting projects in mind.
+
+Thanks for visiting! 😊

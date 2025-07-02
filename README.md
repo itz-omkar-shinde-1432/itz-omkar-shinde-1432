@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Omkar Shinde
 
-I am a passionate B.Tech student in Computer Science Engineering with a focus on Cyber Security. Currently in my first year at GH Raisoni College of Engineering and Management,Pune.
+I am a passionate B.Tech student in Computer Science Engineering with a focus on Cyber Security. Currently in my third year at GH Raisoni College of Engineering and Management,Pune.
 
 ## 🚀 About Me
 
@@ -19,7 +19,7 @@ I am a passionate B.Tech student in Computer Science Engineering with a focus on
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/omkar-shinde-3907a927a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: omkarsh8484@gmail.com
+- Email: omkar.shinde.work.dev@gmail.com 
 
 
 ## 🤝 Let's Collaborate!

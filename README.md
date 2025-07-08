@@ -14,7 +14,7 @@ I am a passionate B.Tech student in Computer Science Engineering with a focus on
 
 ## 🔧 Skills
 
-- Programming Languages: C, Python
+- Programming Languages: java
 
 ## 🌐 Connect with Me
 

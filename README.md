@@ -24,7 +24,7 @@ Email Me 👉 ✉️ **omkar.shinde.work.dev@gmail.com** For Collaboration/Proje
 </div>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=itz-omkar-shinde-1432&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=itz-omkar-shinde-1432&theme=gruvbox-duo)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=itz-omkar-shinde-1432&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-omkar-shinde-1432&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 

@@ -18,8 +18,9 @@ Email Me 👉 ✉️ **omkar.shinde.work.dev@gmail.com** For Collaboration/Proje
 
 
 
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itz-omkar-shinde-1432&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itz-omkar-shinde-1432&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8)
+
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=itz-omkar-shinde-1432&theme=dark&border=FFFFFF)](https://git.io/streak-stats)

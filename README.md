@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **omkar.shinde.work.dev@gmail.com** For Collaboration/Proje
 - 🌱 **I’m currently learning:** Data Structures and Algorithms
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** omkar.shinde.work.dev@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** "I love tech, and tech loves me."
 
 
 ## 🌐 Socials:

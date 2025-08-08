@@ -5,7 +5,6 @@ Email Me 👉 ✉️ **omkar.shinde.work.dev@gmail.com** For Collaboration/Proje
 
 - 🔭 **I’m currently working on:** Backend Projects
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** omkar.shinde.work.dev@gmail.com
 - ⚡ **Fun fact:** "I love tech, and tech loves me."
 
 
